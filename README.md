@@ -1,5 +1,5 @@
 # SoftwareProjectDifficultyPrediction
-In this project, i am using several ml algorithm both for regression and classification to predict the difficulty of a software project. 
+In this project, i am using several machine learning algorithms both for regression and classification to predict the difficulty of a software project. 
 
 # Regression
 In this part i am using 3 machine learning algorithms. For each of them i am tuning the model and evaluating the results. The code is accompanied by comments with explanations
